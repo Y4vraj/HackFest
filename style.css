@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.BackG{
+    background-color: #68766e;
+}
+.BackG1{
+    background-color: #2d3142ff;
+}
+.BackG2{
+    background-color: #e0e2dbff;
+}
+.BackG3{
+    background-color: #1d7874ff;
+}
+.BackG4{
+    background-color: #f58f29ff;
+}
+.BackG5{
+    background-color: #c03221ff;
+}
+
+
+
+
+
+
+/* CSS HEX */
+/* --international-orange-golden-gate-bridge: #c03221ff;
+--space-cadet: #2d3142ff;
+--alabaster: #e0e2dbff;
+--myrtle-green: #1d7874ff;
+--dark-orange: #f58f29ff;
+
+/* CSS HSL */
+/* --international-orange-golden-gate-bridge: hsla(6, 71%, 44%, 1);
+--space-cadet: hsla(229, 19%, 22%, 1);
+--alabaster: hsla(77, 11%, 87%, 1);
+--myrtle-green: hsla(177, 61%, 29%, 1);
+--dark-orange: hsla(30, 91%, 56%, 1); */
+
+/* SCSS HEX */
+/* $international-orange-golden-gate-bridge: #c03221ff;
+$space-cadet: #2d3142ff;
+$alabaster: #e0e2dbff;
+$myrtle-green: #1d7874ff;
+$dark-orange: #f58f29ff */ 
